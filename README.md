@@ -1,2 +1,3 @@
 # Game
-Rockpeparscissiors
+Rock pepars cissiors game
+
